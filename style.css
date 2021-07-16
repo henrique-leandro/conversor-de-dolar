@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background: #323232;
+}
+img{
+    width: 70%;
+}
+
+#titulo {
+    color: #cfff00;
+    font-size: 50px;
+}
+ 
+#input-real{
+    width: 160px;
+    height: 30px;
+    border: 3px solid #00FF00;
+    border-radius: 10px;
+}
+
+#input-dolar{
+    width: 160;
+    height: 30px;
+    border: 3px solid #0000FF;
+    border-radius: 10px;
+}
+
+#paragrafo{
+    font-weight: bold;
+    font-size: 25px;
+}
+#button{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 3px solid #cfff00;
+    border-radius: 10px;
+    background: #323232;
+    color: white;
+}
+
+#button:hover{
+    color: #323232;
+    background: #cfff00;
+}
